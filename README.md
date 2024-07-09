@@ -10,3 +10,5 @@ This Java-based Airline Reservation System provides a comprehensive solution for
   - Cancel bookings
   - View user details
 - **Database Integration**: All user data, bookings, and cancellations are stored and managed in a MySQL database.
+### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
