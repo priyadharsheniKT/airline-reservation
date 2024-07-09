@@ -1,5 +1,5 @@
 ## Overview
-This Java-based Airline Reservation System provides a comprehensive solution for managing flight bookings, user registrations, cancellations, and more. The application utilizes Swing for its graphical user interface (GUI) and JDBC for integration with a MySQL database.**
+This Java-based Airline Reservation System provides a comprehensive solution for managing flight bookings, user registrations, cancellations, and more. The application utilizes Swing for its graphical user interface (GUI) and JDBC for integration with a MySQL database.
 
 ## Features
 - **User Authentication**: Secure login and registration system for new and existing users.
